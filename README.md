@@ -9,8 +9,8 @@
 
 2. prepare access-token
 3. setting label.json <br>
-   download `label.json` file <br>
-   You can change `name`, `color`, and `description`.
+   - download `label.json` file <br>
+   - You can change `name`, `color`, and `description`.
 4. Now you can apply to your Repository!
    Enter this command
 ```bash
