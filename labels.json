@@ -73,5 +73,10 @@
     "name": "✅ Test",
     "color": "ccffc4",
     "description": "test 관련(storybook, jest...)"
+  },
+  {
+    "name": "🆗 safe",
+    "color": "#D4C5F9",
+    "description": "CI workflow 동작 관련"
   }
 ]
