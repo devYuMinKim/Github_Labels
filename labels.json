@@ -1,16 +1,16 @@
 [
   {
-    "name": "⏰ P1",
+    "name": "⏰ P0",
     "color": "d73a4a",
     "description": "반드시 해결해야 하는 중요한 이슈나 문제 (예: 버그, 취약점 등)"
   },
   {
-    "name": "⏰ P2",
+    "name": "⏰ P1",
     "color": "f29a4e",
     "description": "활발하게 고려해야 하는 이슈나 개선사항"
   },
   {
-    "name": "⏰ P3",
+    "name": "⏰ P2",
     "color": "e3dede",
     "description": "추가적인 의견 제시나 소소한 개선사항"
   },
